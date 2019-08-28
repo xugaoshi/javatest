@@ -4,6 +4,7 @@ public class pig {
         System.out.println(s+m);
         System.out.println(w+p);
         System.out.println(m+p);
+
         //测试idea的pull
     }
 }
