@@ -3,6 +3,7 @@ public class pig {
         int s=5,m=6,w=5,p=9;
         System.out.println(s+m);
         System.out.println(w+p);
+        int sss=89;
         //测试idea的pull
     }
 }
